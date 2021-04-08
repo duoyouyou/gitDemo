@@ -1,3 +1,5 @@
 git demo 哈哈哈 wo shi yizhi xiao jiji
 ni hao git
 案件打开即可收到卢卡斯
+wo zai tianjia yihang 
+然后添加一行中文
